@@ -1,4 +1,4 @@
-### Hi there i-m Alex Pawlonski, a passionate Front-end DEV, and welcome to my GitHub repository ! 👋 
+### Hi there i'm Alex Pawlonski, a passionate Front-end DEV, and welcome to my GitHub repository ! 👋 
 
 Here you will mainly find projects in React JS / Next JS / Tailwind CSS, as I aspire to become an expert in the TypeScript framework. ⚡⚡
 If you want more information, I invite you to visit my website / portfolio : [alexpawlonski.tech](https://alexpawlonski.tech/)
