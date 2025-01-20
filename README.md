@@ -7,7 +7,7 @@ If you want more information, i invite you to visit my website / portfolio : [al
 
 And if you're interested in working with me or just want to chat, feel free to contact me directly.
 
-- [alexpawlonski.tech](https://alexpawlonski.tech/)
+- [alexpawlonski.tech](https://alexpawlonski.fr/)
 - [LinkedIn](https://www.linkedin.com/in/alex-pawlonski/)
 - [CodePen](https://codepen.io/ASTRADOR)
 
